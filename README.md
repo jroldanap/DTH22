@@ -1,2 +1,0 @@
-# DTH22
-README
