@@ -55,15 +55,15 @@ void loop() {
 
 2. Instalar la libreria de *DHT sensor library for ESPx* como se muestra en la siguente imagen.
 
-![](https://raw.githubusercontent.com/DiegoJm10/PracticaDHT/main/Libreria%20DHT.png)
+![](https://github.com/jroldanap/DTH22/blob/main/LIBRERIA.png?raw=true)
 
 3. Hacer la conexion de *DHT22* con la *ESP32* como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
+![](https://github.com/jroldanap/DTH22/blob/main/conexion%20es.png?raw=true)
 
 ### Instrucciónes de operación
 
-1. Iniciar simulador.
+1. Iniciar simulador dando click en el boton verde de play.
 2. Visualizar los datos en el monitor serial.
 3. Colocar la temperatura y humedad dando doble click al sensor *DHT22* 
 
@@ -71,18 +71,18 @@ void loop() {
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
+![](https://github.com/jroldanap/DTH22/blob/main/cap.png?raw=true)
 
 
 
 
-## Evidencias
+## Evidencias de programa corriendo
 
-[Video de Youtube](https://https://wokwi.com/)
+![](https://github.com/jroldanap/DTH22/blob/main/cap.png?raw=true)
 
 
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrollado por Jorge Alberto Roldan Aponte
 
-- [GitHub](https://github.com/DiegoJm10)
+- [GitHub](https://github.com/jroldanap)
